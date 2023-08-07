@@ -16,4 +16,5 @@
 
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sametalbayrak&show_icons=true&locale=en" alt="sametalbayrak" /></p>
+![SametAlbayrak's Stats](https://github-readme-stats.vercel.app/api?username=SametAlbayrak&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![SametAlbayrak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SametAlbayrak&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
