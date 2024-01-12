@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sametalbayrak&label=Profile%20views&color=0e75b6&style=flat" alt="sametalbayrak" /> </p>
 
-- 🔭 I’m currently working on **Mobile banking project**
+- 🔭 Freelance Android Developer
 
-- 🌱 I’m currently learning **Compose and Kotlin Multiplatform**
+- 🌱 I’m currently learning **Kotlin Multiplatform**
 
 - 👯 I’m looking to collaborate on **Android and Mobile related things**
 
